@@ -1,6 +1,7 @@
-# Nebula
+#Vanilla Nebula
 
-Generate a distribution.json for Helios. Documentation on this format can be found [here][distro.md].
+Generate a distribution.json for the Qubik Launcher and Helios Based Projects. Documentation on this format can be found [here][distro.md].
+This is not finished and try to create a distribution.json file for Vanilla versions aswell for Forge and Liteloader!w
 
 ## Requirements
 
